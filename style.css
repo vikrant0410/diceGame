@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    text-align: center;
+    color:#fff;
+}
+
+.dice-game{
+    min-height: 100vh;
+    padding:5% 15%;
+    background: linear-gradient(45deg, #fccffc , dodgerblue);
+}
+.dice-game .col-lg-6{
+    width:200px;
+    height:200px;
+}
+
+.dice-game h1{
+    font-size: 5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 100PX;
+}
+
+.dice-game img{
+    width:100%;
+}
